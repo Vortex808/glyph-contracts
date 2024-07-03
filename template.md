@@ -1,21 +1,21 @@
 # TOKEN NAME HERE
 
-- Token Name: 
-- Ticker: 
+- Token Name: Vortex
+- Ticker: VORTEX
 - Data Create: 31-12-2024 23:00 UTC
 - Description: 
 
 ## Token info
 - Website: 
-- X: 
+- X: https://x.com/carlparisnft
 - Discord: 
 
 ## Tokenomics
-- Max Supply:  
-- Premine:   
-- Reward per mint:  
-- Contracts:   
-- Difficulty: 
+- Max Supply:  100 000 000 000
+- Premine:   10 000 000
+- Reward per mint:  50 000
+- Contracts:   25
+- Difficulty: 50
 
 ## Radiant ID
 ```
